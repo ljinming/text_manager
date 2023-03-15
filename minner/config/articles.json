@@ -1,0 +1,151 @@
+[{
+    "date": "Sep 15, 2023",
+    "image": "winners.webp",
+    "name": "Winners Interview Digest | 2022 Web3 Infinity Hackathon",
+    "content": [
+        {
+            "type": "",
+            "text": "Following two video interviews with the winning teams of the Web3 Infinity Hackathon, a text interview will follow."
+        },
+        {
+            "type": "",
+            "text":"One of the interviews, IPFS for WordPress, was named first runner-up in the competition, and the creator is still a university student. This is undoubtedly a solid start for this young developer’s future Web3 journey. MyDonate, which focuses on fundraising, and Ataraxis, which focuses on healthcare, are two additional interviewees today."
+        },
+        {
+            "type": "",
+            "text":"Different roads lead to the same destination: technology for the benefit of mankind and daily living. We’ve set up “3 Core Questions” in the text interview to help viewers better comprehend who they are and what they’re aiming for."
+        },
+        {
+            "type": "",
+            "bloder":"true",
+            "text":"1.Please tell us about the project you built during the Web3 Infinity hackathon and your intention for it."
+        },
+        {
+            "type": "",
+            "bloder":"true",
+            "text":"IPFS for WordPress:"
+          },
+        {
+            "type": "",
+            "text":"IPFS for WordPress positions itself as a Web3.0 IPFS solution for Web2.0 users using the WordPress CMS, as it is user-friendly but yet supports advanced features. Thus, this project meets the need to introduce Web3.0 features into the Web2.0 age while also driving people towards the Web3.0 era in the simplest and most effective way possible."
+        },
+        {
+            "type": "",
+            "text":"WordPress, the world’s largest CMS, is now powering a vast number of websites on the Internet, with a particular emphasis on the Web 2.0 arena. Its main developers think that introducing new Web 3.0 products all at once is not a very effective strategy (at least at this stage), especially given the quick transformation of the application paradigm to Web 3.0. For practical purposes, integrating Web 3.0 features on a broad scale on Web 2.0 sites would be more effective, which might potentially lead to Web 2 gradually expanding into Web 3.0 territory. It is important to note that all integrations must have a low threshold in order to have a greater impact."
+        },
+         {
+            "type": "image",
+            "text":"winnersContent.jpg"
+        },
+         {
+            "type": "",
+            "text":"WordPress, the world’s largest CMS, is now powering a vast number of websites on the Internet, with a particular emphasis on the Web 2.0 arena. Its main developers think that introducing new Web 3.0 products all at once is not a very effective strategy (at least at this stage), especially given the quick transformation of the application paradigm to Web 3.0. For practical purposes, integrating Web 3.0 features on a broad scale on Web 2.0 sites would be more effective, which might potentially lead to Web 2 gradually expanding into Web 3.0 territory. It is important to note that all integrations must have a low threshold in order to have a greater impact."
+        },
+        {
+          "type":"",
+          "bloder":"true",
+          "text":"MyDonate:"
+        },
+        {
+          "type":"",
+          "text":"MyDonate aspires to be a blockchain fundraising platform that establishes and enhances the internet contribution layer using blockchain technology. Create a professional network and grow it into a fundraising cause that obtains social attention, raises crypto assets, and uses them for actual action change. Through the use of blockchain technology, all people and organizations may use MyDonate to collect donations and submit project ideas for support. All platform activity are public and recorded on the blockchain, ensuring that users are constantly kept in the loop. Blockchain is a proven technology in today’s world for data security, and MyDonate is a huge proponent of it."
+        },
+        {
+          "type":"",
+           "bloder":"true",
+          "text":"Ataraxis:"
+        },
+        {
+          "type":"",
+          "text":"IPFS/Filecoin includes a diverse set of existing NFT use cases and demonstrations. Ataraxis seeks to show that IPFS/Filecoin can be utilized in a variety of other fields, including healthcare. One of Ataraxis’ primary features is the use of IPFS/Filecoin to store client health records and data. It will also continue to focus on healthcare in the future, gaining a larger audience in the specialty track."
+        },
+        {
+          "type":"",
+          "bloder":"true",
+          "text":"2.What is the most satisfying aspect of your project and what needs to be improved?"
+        },
+        {
+          "type":"",
+          "bloder":"true",
+          "text":"IPFS for WordPress:"
+        },
+        {
+          "type":"",
+          "text":"The IPFS for WordPress core developers feel that user experience is critical in product rollout and deployment, but in fact, it is a challenging problem. As a result, the team will continue to brainstorm potential use cases and bugs in order to minimize negative user experiences."
+        },
+        {
+          "type":"",
+          "bloder":"true",
+          "text":"MyDonate:"
+        },
+        {
+          "type":"",
+          "text":"The MyDonate team feels that the primary benefit of their product is that it is “new,” and that its features and themes are all fresh in the market. From this standpoint, it was worthwhile to invest more time and effort in digging deeper into the promotion points and making them more relevant to the audience’s genuine requirements."
+        },
+        {
+          "type":"",
+           "bloder":"true",
+          "text":"Ataraxis:"
+        },
+      {
+        "type":"",
+        "text":"Clients use Ataraxis not just to store medical data, but it is also a dApp that may help users with mental health diagnosis and therapy. Customers may sign up for future appointments by leaving reviews and paying in ETH using Metamask. Data like as customer reviews are kept using Web3. Storage, allowing for a long-term presence on IPFS/Filecoin. Overall, it’s both useful and unique."
+      },
+      {
+        "text":"3. Please tell us about you or your team’s next steps and long-term plans for your project?",
+        "type":"",
+        "bloder":"true"
+      },
+      {
+        "type":"",
+        "text":"IPFS for WordPress:",
+        "bloder":"true"
+      },
+      {
+        "type":"",
+        "bloder":"",
+        "text":"The next phase in the project’s development is to apply for a grant and to begin planning and creating the project’s real application. The creators’ long-term intention is to isolate all of the functionality into distinct plugins and build up an official website to house all of these features. This will make it easy for consumers to manage all the features, as well as download and test them."
+      },
+      {
+        "type":"",
+         "bloder":"true",
+        "text":"MyDonate:"
+      },
+      {
+        "type":"",
+        "text":"MyDonate is scheduled to formally debut the project and the mainnet by the end of September or early October, with additional advertising to achieve market support and awareness."
+      },
+      {
+        "type":"",
+        "text":"Ataraxis:"
+      },
+      {
+        "type":"",
+        "text":"Ataraxis intends to charge consumers for uploading and storing their other medical information. This can significantly protect the privacy of personal medical data. More features will be added to the Ataraxis dApp in the future."
+      },
+      {
+        "type":"",
+        "text":"All of the IPFS interview highlights for WordPress, MyDonate, and Ataraxis are included above. The early ideas will continue to expand, ultimately getting on track and becoming something amazing. For all developers, this is simply the beginning of a prosperous future."
+      },
+      {
+        "type":"italic",
+        "fontStyle":"italic",
+        "bloder":"true",
+        "text":"Learn more about Force Community"
+      }
+    ],
+    "footerLinks": [
+          {
+            "text":"Twitter",
+            "link":""
+          },
+           {
+            "text":"Discord",
+            "link":""
+          },
+           {
+            "text":"Telegram",
+            "link":""
+          }
+        ]
+}]
