@@ -1,4 +1,4 @@
-[{
+{
     "date": "Sep 15, 2023",
     "image": "winners.webp",
     "id":"1",
@@ -135,6 +135,19 @@
         "bloder":"true",
         "text":"Learn more about Force Community"
       }
-    ]
+    ],
+    "footerLinks": [
+          {
+            "text":"Twitter",
+            "link":""
+          },
+           {
+            "text":"Discord",
+            "link":""
+          },
+           {
+            "text":"Telegram",
+            "link":""
+          }
+        ]
 }
-]
