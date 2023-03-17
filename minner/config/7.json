@@ -1,0 +1,214 @@
+{
+        "date": "Jun 24, 2022",
+    "image": "7_banner.png",
+    "id":"7",
+    "type":"event",
+    "name": "Announcing Web3 Infinity Hackathon!",
+    "nameText":[
+    {
+        "type":"",
+        "fontStyle":"italic",
+        "text":"Decentralise the Data, Empower The world!"
+    }
+    ],
+    "content":[
+        {
+            "type":"",
+            "text":[
+                    {
+            "type":"",
+            "text":"Force Community is excited to team up with Filecoin and Filecoin Foundation to host a global hackathon focusing on building creations for Web3! Over"
+            },
+            {
+                "type":"",
+                "bloder":"true",
+                "text":"$100,000"
+            },
+            {
+            "type":"",
+            "text":"in prizes, additional grants from sponsors, and FIL-Singapore Summit Perks are just for you and your team!"
+        }
+            ]
+        },
+        {
+            "type":"",
+            "text":[
+                {
+                "type":"",
+                "text":"This hackathon will run"
+                },
+                {
+                    "type":"",
+                    "bloder":"true",
+                    "text":"from July 1st through August 16th, 2022."
+                },
+                {
+                    "type":"",
+                    "text":"Start your hacking journey with us and build amazing projects!"
+                }
+            ]
+        },
+        {
+            "type":"",
+            "text":"Web3 Infinity Hackathon aims to bring together developers, designers, business operators, and entrepreneurs worldwide to experiment and deploy solutions/DApps/tools that catapult the Web3 ecosystem forward. Anyone willing to participate in Web3 are welcome <a href='https://hackathon.fil-singapore.io/' target='_blank'>here</a> An all-star lineup of judges and speakers from across the crypto space is scheduled to present via live stream throughout the registration period and this hackathon journey."
+        },
+        {
+            "type":"",
+            "text":"About the Hackathon"
+        },
+        {
+            "type":"",
+            "fontStyle":"italic",
+            "text":"Rules and Challenges"
+        },
+        {
+            "type":"",
+            "text":"Entrants must create a working software application that fits into one of the required tracks. Web3 Infinity Hackathon has four super impactful tracks that place participants at the forefront of Web3. You can choose which category you wish to compete in:"
+        },
+        {
+            "type":"",
+            "text":[
+                {
+                    "type":"",
+                    "bloder":"true",
+                    "text":"1.Decentralized Storage Infrastructure:"
+                },
+                {
+                    "type":"",
+                    "text":"Outstanding tools or protocols to improve the use of Filecoin and/or IPFS in the following modules: storage/retrieval market, Filecoin Virtual Machine, Filecoin Green, etc."
+                }
+            ]
+        },
+          {
+            "type":"",
+            "text":[
+                {
+                    "text":"2.Storage Solutions for Web 3.0:",
+                      "bloder":"true",
+                      "type":""
+                },
+                {
+                    "type":"",
+                    "text":"Outstanding decentralized storage solution for solving problems in workflow with Filecoin and/or IPFS, or the other decentralized storage services."
+                }
+            ]
+        },
+          {
+            "type":"",
+            "text":[
+                {
+                    "type":"",
+                       "bloder":"true",
+                    "text":"3.Power DApps with IPFS/Filecoin:"
+                },
+                {
+                    "type":"",
+                    "text":"Outstanding implementation of the blockchain-enabled application, including but not limited to consumer-facing NFT DApps, creator-oriented services, and crypto primitives, which stores data with Filecoin and/or IPFS, and/or the other decentralized storage services."
+                }
+            ]
+        },
+          {
+            "type":"",
+            "text":[
+                {
+                    "type":"",
+                     "bloder":"true",
+                    "text":"4.Bridges among Multi-chains:"
+                },
+                {
+                    "type":"",
+                    "text":"Outstanding building tools, protocols, or DApps activate multi-chain(s) and use IPFS and/or Filecoin for storage requirements."
+                }
+            ]
+        },
+        {
+            "type":"",
+            "fontStyle":"italic",
+            "text":"Benefits and Opportunities"
+        },
+        {
+            "type":"",
+            "text":[
+                {
+                "type":"",
+                "text":"Submit your project and compete for over"
+                },
+                {
+                    "type":"",
+                    "bloder":"true",
+                    "text":"$100,000"
+                },
+                {
+                    "type":"",
+                    "text":"total in prizes. Outstanding teams will have the opportunity to meet investors face-to-face, project accelerator from Top Web3 VCs, and special perks of FIL-Singapore Summit"
+                },
+                {
+                    "type":"",
+                     "bloder":"true",
+                    "text":"from August 16–19th at Marina Bay Sands, Singapore."
+                },
+                {
+                    "type":"",
+                    "text":"For more details about the FIL-Singapore Summit, please visit <a href='https://www.fil-singapore.io/' target='_blank'>fil-singapore.io.</a>"
+                }
+            ]
+        },
+        {
+            "type":"",
+            "text":"How to Join Hackathon"
+        },
+        {
+            "type":"",
+            "text":[
+                {
+                    "type":"",
+                    "text":"Visit the <a href='https://hackathon.fil-singapore.io/' target='_blank'>Web3 Infinity Hackathon website</a> and click the"
+                },
+                {
+                    "type":"",
+                    "bloder":"true",
+                    "text":"“Register NOW”"
+                },
+                {
+                    "type":"",
+                    "text":"button. To complete registration, sign up to create a free Devpost account or log in with an existing account, which will enable you to receive significant updates and submit your project."
+                }
+            ]
+        },
+        {
+            "type":"",
+            "text":[
+                {
+                    "type":"",
+                     "bloder":"true",
+                    "text":"Notice: "
+                },
+                {
+                    "type":"",
+                    "text":"the submission available"
+                },
+                {
+                    "type":"",
+                     "bloder":"true",
+                    "text":"from July 1, 2022 (00:00 CST) — July 22, 2022 (23:45 CST)."
+                },
+                 {
+                    "type":"",
+                    "text":"Click <a href='https://web3infinityhackathon.devpost.com/rules' target='_blank'>rules</a> to learn more details about this hackathon."
+                }
+            ]
+        },
+        {
+            "type":"",
+            "text":"Members from the Web3 ecosystem run a wide variety of workshops to help you build your fantastic project, as well as all-round care and support. You can browse our official website for more information on these videos, tutorials, and live workshops."
+        },
+        {
+            "type":"",
+            "text":"Follow our Twitter <a href='https://twitter.com/force_ipfs' target='_blank'> Force Web3 Community </a> or join our dedicated Discord: <a herf='https://discord.com/invite/tNj4XBrtJk' target='_blank '>Force Web3 Community</a> to get the latest updates and helpful resources!"
+        },
+        {
+            "type":"",
+            "text":"Together, Foresee Web3.0!"
+        }
+    ]
+}

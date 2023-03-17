@@ -4,6 +4,7 @@ some json
 
 
 italic 字体倾斜
+"fontStyle":"italic",
 bloder 加粗
 types:['all','events','insight','infinite']
 content={

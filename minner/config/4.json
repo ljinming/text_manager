@@ -1,0 +1,245 @@
+{
+     "date": "Aug 5, 2022",
+    "image": "4_banner.webp",
+    "id":"4",
+    "type":"event",
+    "name": "Web3 Infinity Hackathon — The Future is Today",
+    "content":[
+        {
+            "type":"",
+            "text":"Web3 Infinity Hackathon is kindling the zeal of worldwide developers as an exclusive sub-event of FIL Singapore Summit! Since the registration opened on July 1, it has drawn developers from over 70 nations globally, with over 400 participants from the United States, China, India, Japan, Korea, Singapore, etc."
+        },
+         {
+            "type":"",
+            "text":"Surprisingly, the multilingual developer community has shown widespread interest in Web3 ecosystem, with NFT, DAO, and Metaverse dApps being the most popular options. They either choose to develop their dApps by storing metadata on IPFS/Filecoin or use NFT Storage or Web3 Storage directly as the underlying storage service provider, which clearly illustrates the broad application fields of IPFS/Filecoin."
+        },
+         {
+            "type":"",
+            "text":"In addition to the professional workshops that provided a series of training courses in recent weeks, VC Talks and Winner’s Call, as additional special events empowered Web3 Infinity Hackathon, the former invite renowned VCs in the Web3 sector to expose the “inside narrative” and their “investment philosophy” on project investment and financing, while the latter welcome previous Web3 hackathon winner teams to offer some tactics and secrets to help all entrants get an edge."
+        },
+         {
+            "type":"Image",
+            "text":"4_text01.webp"
+        },
+         {
+            "type":"",
+            "text":"Web3 Infinity Hackathon is an exciting global event for all developers, co-hosted by Filecoin, Filecoin Foundation, and Force Community. It was launched as a one-stop hackathon and has already gained much popularity worldwide. This is a great stage for hackers from all walks of life to express their creativity and passion in the hope of seizing a better future."
+        },
+         {
+            "type":"",
+            "bloder":"true",
+            "text":"The following are the four primary competing tracks, plus a special track sponsored by Fluence of Web3 Infinity Hackathon:"
+        },
+         {
+            "type":"",
+            "text":[
+                {
+                    "type":"",
+                    "bloder":"true",
+                    "text":"Track 1:"
+                },
+                 {
+                    "type":"",
+                    "text":"Decentralized Storage Infrastructure"
+                }
+            ]
+        },
+          {
+            "type":"",
+            "text":[
+                {
+                    "type":"",
+                    "bloder":"true",
+                    "text":"Track 2:"
+                },
+                 {
+                    "type":"",
+                    "text":"Storage Solutions for Web 3.0"
+                }
+            ]
+        },
+          {
+            "type":"",
+            "text":[
+                {
+                    "type":"",
+                    "bloder":"true",
+                    "text":"Track 3:"
+                },
+                 {
+                    "type":"",
+                    "text":"Power DApps with IPFS/Filecoin"
+                }
+            ]
+        },
+          {
+            "type":"",
+            "text":[
+                {
+                    "type":"",
+                    "bloder":"true",
+                    "text":"Track 4:"
+                },
+                 {
+                    "type":"",
+                    "text":"Bridges among Multi-chains"
+                }
+            ]
+        },
+          {
+            "type":"",
+            "text":[
+                {
+                    "type":"",
+                    "bloder":"true",
+                    "text":"Special Track:"
+                },
+                 {
+                    "type":"",
+                    "text":"Influence Web3 with Fluence"
+                }
+            ]
+        },
+         {
+            "type":"Image",
+            "text":"4_text02.webp"
+        },
+         {
+            "type":"",
+            "text":"All these tracks provide participants a lot of leeway, with endless new possibilities for building dApps in Web3 ecosystem. Teams working on IPFS/Filecoin infrastructure development, tools, apps, plugins, etc. may all participate in project development. There are tremendous chances ahead, given the emergence of FVM and retrieval market."
+        },
+         {
+            "type":"",
+            "text":"The prize pool will include an over $100,000+ award as well as a $10,000 sponsorship incentive for the hackathon’s 30+ winning teams."
+        },
+         {
+            "type":"Image",
+            "text":"4_text03.webp"
+        },
+         {
+            "type":"",
+            "text":"Furthermore, the hackathon provides even more benefits than those mentioned above. A bunch of investment and financing opportunities, and professional pre-hackathon training courses are all available to all the participants. Special perks such as free tickets to the FIL Singapore Summit, on-site award ceremony, interviews and free use of the surrounding venues will also be eligible for the winner teams."
+        },
+         {
+            "type":"",
+            "text":"More significantly, participates will be able to join the IPFS/Filecoin universe. They will get the opportunity to obtain professional advice and assistance, as well as technical support from the founding team, along with project recommendations and extensive exposure!"
+        },
+         {
+            "type":"",
+            "bloder":"true",
+            "text":"Web3 Infinity Hackathon Agenda"
+        },
+         {
+            "type":"li",
+            "text":[
+                {
+                    "type":"",
+                    "bloder":"true",
+                     "text":"Submission Period:"
+                },
+                 {
+                    "type":"",
+                     "text":"July 1, 2022 — August 17, 2022"
+                }
+            ]
+        },
+         { 
+            "type":"li",
+            "text":[
+                {
+                    "type":"",
+                    "bloder":"true",
+                "text":"Judging Period:"
+                },
+                 {
+                "type":"",
+                "text":"August 18, 2022 — August 21, 2022"
+                }
+            ]
+        },
+         {
+            "type":"li",
+            "text":[
+                {
+                 "text":"Online Closing Ceremony + Winner Announcement: ",
+                  "bloder":"true",
+                "type":""
+                },
+                 {
+                    "type":"",
+                "text":"August 23, 2022"
+                }
+            ]
+        },
+         {
+            "type":"li",
+            "text":[
+                {
+                    "type":"",
+                 "bloder":"true",
+                "text":"Project Interview:"
+                },
+                 {
+                    "type":"",
+                "text":"September 6, 2022  "
+                }
+            ]
+        },
+         {
+            "type":"",
+            "text":[
+                {
+                    "type":"",
+                    "bloder":"true",
+                "text":"FIL Singapore Summit — Hackathon Award Ceremony:"
+                },
+                 {
+                    "type":"",
+                "text":"September 26, 2022"
+                }
+            ]
+        },
+         {
+            "type":"",
+            "fontStyle":"italic",
+            "text":"*The amended agenda for Web3 Infinity Hackathon is based on the postponement of FIL Singapore Summit, which was initially scheduled for August 16–19, 2022, to September 26–27 at the Marina Bay Sands Hotel in Singapore."
+        },
+         {
+            "type":"",
+            "text":"Web3 Infinity Hackathon now has a longer preparation period, which means that participants from all over the globe will have more time to work on their ideas in order to achieve a better outcome."
+        },
+         {
+            "type":"",
+            "text":"The most anticipated and revolutionary aspect of the Web3 world has always been using code to present ideas and develop applications. Pick up the “Creator’s Key” now and join Web3 Infinity Hackathon. The future is today!"
+        },
+         {
+            "type":"",
+            "bloder":"true",
+            "text":"Sign Up for Web3 Infinity Hackathon"
+        },
+         {
+            "type":"",
+            "text":"1.Sign up on Devpost via the link below."
+        },
+         {
+            "type":"",
+            "text":"<a href='https://web3infinityhackathon.devpost.com/' target='_blank'>https://web3infinityhackathon.devpost.com/</a>"
+        },
+        {
+            "type":"",
+            "text":"2.Learn more about Web3 Infinity Hackathon and click on Register Now to sign up."
+        },
+         {
+            "type":"",
+            "text":"<a href='https://hackathon.fil-singapore.io/' target='_blank'>https://hackathon.fil-singapore.io/</a>"
+        },
+        {
+            "type":"",
+            "text":"3.Register at Hackathon sector on FIL Singapore Summit website."
+        },
+         {
+            "type":"",
+            "text":"<a href='https://fil-singapore.io/' target='_blank'>https://fil-singapore.io/</a>"
+        }
+    ]
+}

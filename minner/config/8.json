@@ -1,0 +1,220 @@
+{
+    "date": "Jun 14, 2022",
+    "id":"8",
+    "type":"event",
+    "name": "Snapshot of the FIL-Singapore Sub-Events!",
+    "content":[
+        {
+            "type":"",
+            "text":[
+                    {
+                "type":"",
+                "text":"The FIL-Singapore Summit will take place on "
+            },
+            {
+                "type":"",
+                "bloder":"true",
+                "text":"Aug 16–19, 2022,"
+            },
+            {
+                "type":"",
+                "text":"a four-day event featuring insightful talks from top-notch speakers. Attendees will have the fantastic opportunity of engaging in presentations, workshops, and meetups with more than 20 teams and participate in meaningful conversations around topics like NFTs, DAOs, and the metaverse, sparking your inspiration from the collision of ideas. Let’s take a quick look at a few projects."
+            }
+            ]
+        },
+        {
+            "type":"",
+            "bloder":"true",
+            "fontStyle":"italic",
+            "text":"Web 3 Independent projects in FIL- Singapore"
+        },
+        {
+            "type":"",
+            "text":"We might have thought that NFTs and the metaverse were distant dreams, but FIL-Singapore Summit will display some of these projects in action."
+        },
+        {
+            "type":"",
+            "text":"For example, SINSO is a decentralized medical facility architecture system on the Filecoin network in Web 3.0. SINSO is committed to providing quality telemedicine services and solving the problem of patient data rights confirmation. It encourages active participation in data validation through a customized NFT publishing template to enhance medical data collection, asset transformation processes, and the flow of medical data. Interestingly, SINSO also offers virtual assets under the doctor brand NFT, enabling doctors from a vast array of fields to work freelance. In addition, SINSO will build patient-centric ecological data on top of Filecoin’s infrastructure, freeing patients to control their data and creating a meta-ecology of the medical universe and reality, effectively reshaping the doctor-patient relationship. This unmissable side event will showcase SINSO products, including detailed examples of how ARTHA HEALTH, OORT Digital and Poly Network have taken advantage of SINSO’s unique storage solutions for NFTs, GameFi, public chains, and cross-chain bridge projects."
+        },
+        {
+            "type":"",
+            "text":"Click the link below to find out more: <a href='https://www.sinso.io/activity.html' target='_blank'>https://www.sinso.io/activity.html.</a>"
+        },
+        {
+            "type":"",
+            "text":"C3 Protocol is the team behind Crowd Created Canvas, the first on-chain co-creation NFT Canvas project built on Internet Computers. Their vision is to become the metaverse dream factory of the future. Many NFT enthusiasts in the industry welcomed C3 Protocol’s zombie series NFT, and it sold out quickly after limited sales. Beyond this, the series can be extended to link projects or individual artists."
+        },
+        {
+            "type":"Image",
+            "text":"8_text01.png"
+        },
+        {
+            "type":"",
+            "fontStyle":"italic",
+            "text":"Click the link below to find out more:<a href='https://c3.io' target='_blank'>https://c3.io</a> "
+        },
+        {
+            "type":"",
+            "text":"Crowd Created Collectibles (CCC) is the first fully decentralized cooperation platform. CCC Protocol’s products will use IPFS/Filecoin to store and preserve artwork metadata, ensuring its validity. At the side conference, CCC founder Leven will share his insights on the C3 protocol and decentralized Web 3.0 platforms and detail how IPFS/Filecoin stores data."
+        },
+        {
+            "type":"",
+            "fontStyle":"italic",
+            "text":"Click the link below to find out more:<a href='https://medium.com/@CCCProtocol' target='_blank'> https://medium.com/@CCCProtocol<a/> "
+        },{
+            "type":"",
+            "text":"Qitchain, a new independent public chain, will also appear in the forum. Its vision is to empower blockchain, carry out distributed storage and distributed retrieval of valuable data in the blockchain, and create an influential information aggregator for the blockchain network. With the advent of the Web3.0 era, the blockchain industry has begun to subdivide, and many fresh projects have sprouted like buds after a spring rain. Efficient and relatively transparent, with a unique CPOC and POST consensus mechanism and sound architecture, the Qitchain Network will likely lead the competition for future distributed search engines. Speakers will give a workshop and presentation on Qitchain, its economic model and consensus algorithm, explaining how QTC supports Web 3.0 and will be a rising star in the public chain."
+        }
+        ,{
+            "type":"Image",
+            "text":"8_text02.png"
+        },{
+            "type":"",
+             "fontStyle":"italic",
+            "text":"Click the link below to find out more:<a href='https://qitchain.net' target='_blank'>https://qitchain.net</a> "
+        },
+        {
+            "type":"",
+            "text":"ND LABS, another public chain project in this event, will do an excellent job constructing and operating its underlying infrastructure as Web 3.0 develops. In the long-term, it will connect the next-generation Internet with the metaverse and lead the digital economy into a technological enterprise. Specializing in the data economy will usher in critical wealth after the pandemic crisis."
+        },
+        {
+            "type":"",
+             "fontStyle":"italic",
+            "text":"Click the link below to find out more:<a href='https://twitter.com/imNDLABS' target='_blank'>https://twitter.com/imNDLABS</a> "
+
+        },
+        {
+            "type":"",
+             "fontStyle":"italic",
+             "bloder":"true",
+            "text":"Service providers"
+        },
+        {
+            "type":"",
+            "text":"Protocol Labs Starfleet — Retrieval Markets"
+        },
+        {
+            "type":"",
+            "text":"Alongside the FVM, the Filecoin Retrieval Market is one of the most important priorities for Filecoin. It unlocks the possibility of mass adoption for the Filecoin Network."
+        },{
+            "type":"",
+            "text":"The Retrieval Markets Working Group (RMWG) consists of many teams around the globe, all working on building blocks of a decentralised CDN for the Filecoin Network. The Retrieval Markets Summit at FIL Singapore will give each team the chance to present what they have built so far and their vision for the future. It will also give the teams a chance to meet each other and discuss how their solutions can work together. Head to the retrieval market to find out more about the teams and their work."
+        },
+        {
+            "type":"",
+            "text":"This event will include time at the beginning and the end to talk to each other more informally over some food and drinks."
+        },{
+            "type":"Image",
+            "text":"8_text03.png"
+        },
+        {
+            "type":"",
+            "fontStyle":"italic",
+            "text":"Click the link below to find out more:<a href='https://retrievalmarketssummit.super.site/' target='_blank'>https://retrievalmarketssummit.super.site/</a> "
+        },{
+            "type":"",
+            "text":"Alkimiya, a free open source agreement for Consensus Capital Markets, will also appear at the FIL-Singapore Summit. As competition intensifies, costs tend to increase over time on most networks. Simultaneously, revenue management is challenging due to currency price fluctuations, equivalent index difficulties, network costs, and other factors. Like traditional commodity producers who use financial instruments to prevent uncertainty, Alkimiya will allow any consensus producer to create financial contracts based on potential “consensus resources.”"
+        },
+        {
+            "type":"",
+              "fontStyle":"italic",
+            "text":"Click the link below to find out more:<a href='https://alkimiya.io' target='_blank'>https://alkimiya.io</a> "
+        },{
+            "type":"",
+            "text":"At the conference, you can find out how storage providers can join the Filecoin network through keynote talks, AMA, Swag, and more. In addition to the crypto industry, we received sign-ups from traditional data storage industry partners. Many storage providers are looking for ways to join the Filecoin ecosystem, and Venus is coming to help. Lotus, as well as other implementations, including Venus, Forest, and Fuhon, will meet the different needs of the Filecoin ecosystem. From its first node in early 2021, Venus has built more than 150 nodes, running a storage capacity of more than 400 PIBs."
+        },
+        {
+            "type":"",
+             "fontStyle":"italic",
+            "text":"Click the link below to find out more:<a href='https://venus.filecoin.io' target='_blank'>https://venus.filecoin.io</a> "
+        },{
+            "type":"",
+            "text":"Seagate Technology, founded in the US in 1979, specializes in building sophisticated data storage and management solutions. Seagate provides data solutions to Fortune 500 companies, has long-term relationships with multiple organizations, and drives the growth of the traditional data economy in various ways. Seagate Technology will present topics related to the Web 3.0 ecosystem, such as critical technologies for the next generation of interactions."
+        },
+        {
+            "type":"Image",
+            "text":"8_text04.png"
+        },{
+            "type":"",
+             "fontStyle":"italic",
+            "text":"Click the link below to find out more:<a href='https://www.seagate.com/cn/zh/' target='_blank'>https://www.seagate.com/cn/zh/</a> "
+        },
+        {
+            "type":"",
+            "text":"Starboard offers another exciting side event, sharing ideas and techniques gained from their work on developing network analytics expertise for Web 3.0 governance and reliable analytical tools to help people better understand and participate in the Filecoin network."
+        },{
+            "type":"",
+            "fontStyle":"italic",
+             "text":"Click the link below to find out more:<a href='https://www.starboard.ventures/post/filecoin-network-analytics-data-driven-governance-in-web3' target='_blank'>https://www.starboard.ventures/post/filecoin-network-analytics-data-driven-governance-in-web3</a> "
+        },
+        {
+            "type":"",
+            "text":"Filswan provides a complete solution for Web 3.0, helping developers easily integrate decentralized storage, edge computing, and payments across multiple chains. At the Summit, they will hold a community meet-and-greet at the branch hall."
+        },
+        {
+            "type":"",
+              "fontStyle":"italic",
+            "text":"Click the link below to find out more:<a href='https://www.filswan.com/homepage' target='_blank'>https://www.filswan.com/homepage</a> "
+        },
+        {
+            "type":"",
+            "text":[
+                     {
+                    "type":"",
+                    "text":"FileDrive Labs is a technical team concentrating on distributed storage based on IPFS and Filecoin Network for Web3.0 and actively developing tools, applications, and infrastructure. From March 2022, FileDrive Labs started to hold a monthly event, FileDrive Meetup, dedicated to disseminating and sharing the latest news of the Filecoin network, covering ecosystem updates and significant technological developments."
+                },
+                {
+                    "type":"",
+                    "bloder":"true",
+                    "text":"On August 18th,"
+                },
+                {
+                    "type":"",
+                    "text":" FileDrive Meetup will be held its first offline activity at Marina Bay Sands, Singapore, as a Side Event of the FIL-Singapore Summit. “We can’t wait to meet community friends face-to-face and jointly enjoy an incredible Web3.0 journey. All significant topics around decentralized storage bases on IPFS and Filecoin will be discussed at FileDrive Singapore Meetup. We sincerely invite you to have a grand time with FileDrive Labs and see how far we could explore the future storage of Web3.0 together.”"
+                }
+            ]
+        },
+        {
+            "type":"Image",
+            "text":"8_text06.png"
+        },
+        {
+            "type":"",
+             "fontStyle":"italic",
+            "text":"Click the link below to find out more:<a href='https://www.eventbrite.hk/e/filedrive-singapore-meetup-tickets-365423751277?aff=ebdsoporgprofile' target='_blank'>https://www.eventbrite.hk/e/filedrive-singapore-meetup-tickets-365423751277?aff=ebdsoporgprofile</a> "
+        },
+        {
+            "type":"",
+             "fontStyle":"italic",
+             "bloder":"true",
+            "text":"Investment institutions/Sponsors"
+        },
+        {
+            "type":"",
+            "text":"Funding is crucial to Web 3.0 innovation projects. Fenbushi Capital, Asia’s first and most active blockchain venture capital firm, will appear at the Summit. One of our sponsors for this conference, Fenbushi Capital, was founded in Shanghai in 2015 by blockchain and traditional finance industry veterans. It has supported over 60 leading projects across four continents, using blockchain technology to reshape diverse industries, including finance, healthcare, supply chains, and consumer goods. Its mission is to promote the healthy and sustainable development of the global blockchain ecosystem and actively serve as a long-term strategic partner for portfolio projects."
+        },
+        {
+            "type":"",
+             "fontStyle":"italic",
+            "text":"Click the link below to find out more:<a href='https://www.fenbushicapital.vc/index_en.html' target='_blank'>https://www.fenbushicapital.vc/index_en.html</a> "
+        },
+        {
+            "type":"",
+            "text":"Furthermore, Secured Finance is an institutional banking trading platform with automatic pledge management and market-to-market mechanisms. It has established a decentralized P2P crypto asset service platform through blockchain technology to create a safe and reliable P2P financial platform for all Web 3.0 users. Compared to traditional banking financial services, Secured Finance’s P2P financial protocol simplifies the bank’s trading systems through smart contracts, providing users with a more secure and convenient digital currency transaction experience. What investment advice will the two investment institutions give this time? Stay tuned!."
+        },
+        {
+            "type":"",
+            "fontStyle":"italic",
+            "text":"Click the link below to find out more:<a href='https://secured-finance.com' target='_blank'>https://secured-finance.com</a> "
+        },
+        {
+            "type":"",
+            "text":"Side events are essential to the FIL-Singapore Summit, playing an indispensable role in the Web 3.0 world and the Filecoin network. They cover a wide range of fields such as medical treatment and private data in health care storage (SINSO), Web 3.0 infrastructure (Qitchain), permission-free open-source protocols (Consensus Capital Market Alkimiya), the first completely decentralized collaboration platform (CCC), Filecoin service providers (the Venus team and FILSwan), storage service (Seagate Lyve TM Cloud and Starboard), automated collateral management, market-to-market mechanisms, and financial trading platform (Secured Finance), the most active blockchain-focused venture capital firm (Fenbushi Capital). Get your tickets now to experience the iconic Marina Bay Sands and learn more about these great Web 3.0 projects face-to-face!"
+        },
+        {
+            "type":"",
+             "fontStyle":"italic",
+            "text":"Click the link below to find out more! <a href='https://fil-singapore.io/' target='_blank'>https://fil-singapore.io/</a> "
+        }
+    ]
+}

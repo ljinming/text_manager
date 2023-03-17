@@ -1,0 +1,161 @@
+{
+        "date": "Jul 14, 2022",
+    "image": "5_banner.webp",
+    "id":"5",
+    "type":"event",
+    "name": "Web3 Infinity Hackathon Workshop is Ongoing",
+    "content":[
+        {
+            "type":"",
+            "text":"As Web3 Infinity Hackathon registration channel is now open, we invited well-known Web3 teams and hosted a three-week hackathon workshop for you every Wednesday / Friday at 18:00. We have had two workshops in the past week, and we will continue."
+        },
+          {
+            "type":"",
+            "text":"You can click <a href='https://space.bilibili.com/444267709' target='_blank'>here</a> to access the video."
+        },
+          {
+            "type":"Image",
+            "text":"5_text01.webp"
+        },
+          {
+            "type":"Workshop 3",
+            "text":""
+        },
+          {
+            "type":"",
+            "text":[
+                {
+                    "type":"",
+                    "bolder":"true",
+                    "text":"🕹Theme:"
+                },
+                {
+                    "type":"",
+                    "text":"Introduction to IPFS and Filecoin (CN)"
+                }
+            ]
+        },
+        {
+            "type":"",
+            "text":[
+                {
+                    "type":"",
+                    "bolder":"true",
+                    "text":"⌚️Time:"
+                },
+                {
+                    "type":"",
+                    "text":"July 13th 18:00 CST (UTC+8)"
+                }
+            ]
+        },
+        {
+            "type":"",
+            "text":[
+                {
+                    "type":"",
+                    "bolder":"true",
+                    "text":"🌟Speaker:"
+                },
+                {
+                    "type":"",
+                    "text":"William Yang (CTO@KEN Labs)"
+                }
+            ]
+        },
+          {
+            "type":"",
+            "text":"William will introduce what IPFS and Filecoin are in this Episode and what roles they are playing in Web3. In this workshop, you will get familiar with IPFS and Filecoin, such as decentralisation and addressable content. Also, you can learn about the user-friendly tools and existing applications to kick-start their first developments in Web3."
+        },
+          {
+            "type":"Image",
+            "text":"5_text02.webp"
+        },
+          {
+            "type":"",
+             "bolder":"true",
+            "text":"Workshop 4"
+        },
+          {
+            "type":"",
+            "text":[
+                {
+                    "type":"",
+                    "bolder":"true",
+                    "text":"🕹Theme:"
+                },
+                {
+                    "type":"",
+                    "text":"Building with Lotus API(CN)"
+                }
+            ]
+        },
+          {
+            "type":"",
+            "text":[
+                {
+                    "type":"",
+                    "bolder":"true",
+                    "text":"⌚️Time:"
+                },
+                {
+                    "type":"",
+                    "text":"July 15th 18:00 CST (UTC+8)"
+                }
+            ]
+        },
+          {
+            "type":"",
+            "text":[
+                {
+                    "type":"",
+                    "bolder":"true",
+                    "text":"🌟Speaker:"
+                },
+                {
+                    "type":"",
+                    "text":"Chao Wang(Core Developer@IPFSForce)"
+                }
+            ]
+        },
+          {
+            "type":"",
+             "bolder":"true",
+            "text":"About IPFS Force"
+        },
+          {
+            "type":"",
+            "text":[
+                {"type":"",
+                    "text":"IPFS Force has concentrated on technology research and development in blockchain since 2017. With the vision of being Web 3.0’s infrastructure service provider, IPFS Force is working to make storage more efficient, economical, open, and safer."},
+                {"type":"",
+                "bolder":"true",
+                "text":"“Co-built Value, Sharing Honor,” "
+                },
+                {
+                    "type":"",
+                    "text":"IPFSForce leverages technologies to empower global communities with high-quality services."
+                }
+            ]
+        },
+          {
+            "type":"",
+             "bolder":"true",
+            "text":"About Web3 Infinity Hackathon"
+        },
+          {
+            "type":"",
+            "text":"2022 Web3 Infinity Hackathon offers a six-week incredible hackathon journey hosted by Filecoin, Filecoin Foundation, and the Force community."
+        },
+
+          {
+            "type":"As a sub-event to <a href='https://www.fil-singapore.io/' target='_blank'> FIL-Singapore</a>, Web3 Infinity Hackathon aims to bring together developers, designers, business operators, and entrepreneurs worldwide to experiment and deploy solutions/DApps/tools that catapult the Web3 ecosystem forward. ",
+            "text":""
+        },
+
+          {
+            "type":"Follow our Twitter <a href='https://twitter.com/force_ipfs' target='_blank'>Force Web3 Community</a> or join our dedicated Discord: <a href='https://discord.com/invite/tNj4XBrtJk' target='_blank'>Force Web3 Community</a>  to get the latest updates and helpful resources!",
+            "text":""
+        }
+    ]
+}

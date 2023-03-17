@@ -1,0 +1,158 @@
+{
+       "date": "Feb 28",
+    "image": "9_banner.webp",
+    "id":"9",
+    "type":"event",
+    "name": "Orbit FVM Shanghai Meetup Recap — Unlock the Infinite Possibilities of FVM",
+    "content":[
+        {
+            "type":"",
+            "text":"The Opportunity Center in Shanghai last Sunday was exceptionally bustling compared to previous days. Amidst the crowds of people, the FVM Shanghai Meetup officially kicked off in the second-floor bookstore. The event venue was surrounded by vast oceans of books, each one withstanding the test of time, immortalized as a chronicle of human history, passing down countless rich experiences accumulated by humanity from generation to generation."
+        },
+         {
+            "type":"",
+            "text":"At this moment, Filecoin’s grand vision coincides with the significance of the existence of books. After a long period of COVID restrictions in mainland China, we finally welcomed this long-awaited offline event. Rare opportunities bring special encounters, with attendees either coming in small groups or arriving solo, with some friends traveling from afar even an hour after the event ended."
+        },
+         {
+            "type":"",
+            "text":"Nearly 200 participants crowded the bookstore, among which, there were familiar faces that had been seen countless times, yet they still appeared with a fresh attitude. There were also many new faces, whose figures were faintly visible in the crowd, but their curious and expectant expressions were unmistakable."
+        },
+         {
+            "type":"",
+            "text":"February 26th was supposed to be an ordinary day, but it became unique because of the gathering of these people, the followers, builders, and ecosystem participants of the Filecoin community. The speeches on stage and the crowds below complemented each other perfectly. At 2:00 PM Beijing time on February 26th, the outstanding meetup with a focus on the outlook of FVM officially kicked off."
+        },
+         {
+            "type":"",
+            "text":"The Sunday FVM event agenda was divided into 4 main sections, including 3 keynote speeches, 2 video demonstrations, a panel discussion, and a networking session after the event."
+        },
+         {
+            "type":"",
+            "text":"The first speaker to take the stage was Longfei from the Protocol Labs, whose concise and straightforward speaking style conveyed his infinite expectations for FVM & FEVM as a developer advocate. The entire speech was devoid of any redundancy, concisely explaining the concepts and functions of FVM and FEVM. He also addressed the most concerning issue, “Ethereum compatibility,” providing an answer in his speech."
+        },
+
+         {
+            "type":"Image",
+            "text":"9_text01.jpg"
+        },
+         {
+            "type":"",
+            "bloder":"true",
+            "fontStyle":"italic",
+            "text":"So how does FVM achieve Ethereum compatibility?"
+        },
+         {
+            "type":"",
+            "text":"Full compatibility with Ethereum can be fulfilled across multiple dimensions, such as execution environment compatibility, address compatibility, account compatibility, transaction and signature compatibility, and tooling compatibility, injecting adrenaline and vitality into the Filecoin ecosystem. Additionally, he revealed that after FVM goes online, Filecoin will unlock more diverse utilizing scenarios, such as Filecoin + Metamask, Filecoin + Remix IDE, Filecoin + Hardhat, etc."
+        },
+         {
+            "type":"",
+            "text":"The program immediately greeted its second guest, Fatman13, after a bilingual video introduction to FVM and FEVM. He is a Filecoin community KOL and a major contributor to Venus. He was kind and generous in sharing a variety of practical, easy-to-use developer tools with the developers in attendance. He introduced the GO-FVM-SDK toolkit based on Venus implementation in the later portion of his session."
+        },
+         {
+            "type":"Image",
+            "text":"9_text02.jpg"
+        },
+         {
+            "type":"",
+            "text":"By using this toolkit, engineers can quickly deploy smart contracts after FVM goes live, and more easily participate in and join the entire Filecoin ecosystem. As Venus’s mission states: “Build Filecoin infrastructure and tools to support ecosystem development and prosperity.”"
+        },
+         {
+            "type":"",
+            "text":"There is an important type of figure in the Web3 industry who has weathered multiple market cycles, and Biao is exactly the guy who’s a veteran entrepreneur in the crypto domain."
+        },
+         {
+            "type":"",
+            "text":"His development team has won several awards in various hackathons in the Filecoin ecosystem, and as an early developer on Filecoin, he continues to pursue his entrepreneurial journey in 2023."
+        },
+         {
+            "type":"Image",
+            "text":"9_text04.jpg"
+        },
+         {
+            "type":"",
+            "text":"His projects, FlowShield and IceFireDB, aim to strengthen network security and provide decentralized databases, respectively. With his extensive experience in the storage industry, Biao is a valuable leader for his team and plans to expand FlowShield’s applications within the Filecoin ecosystem using FVM, such as creating a decentralized order system and building a PKI infrastructure."
+        },
+         {
+            "type":"",
+            "text":"It’s clear that Biao’s success is not just due to his experience and expertise, but also his determination and leadership in guiding his team toward their goals. His presence in the Web3 industry is a testament to the importance of these key players who can weather the storms and emerge victorious in the ever-changing landscape of blockchain technology."
+        },
+         {
+            "type":"",
+            "text":"Following 3 technical talks, the event welcomed its last keynote speaker, Timo, who told us about DeFi on Filecoin. According to DefiLlama statistics, the DeFi boom is centered on Ethereum, with Polygon and other networks gaining traction as well. Following the introduction of FVM and the attainment of Ethereum interoperability, the decentralized financial market on Filecoin will shortly enter the furious market battle."
+        },
+         {
+            "type":"Image",
+            "text":"9_text05.jpg"
+        },
+         {
+            "type":"",
+            "text":"As one of the earliest DeFi projects in the ecosystem, Secured Finance has a leading position and will seize the opportunity after FVM’s launch to deeply utilize the various application scenarios of FVM in the decentralized finance field, implementing the multi-functional concept of its products and contributing to the narrative of DeFi on Filecoin. At the same time, the DeFi market will also be one of the most promising and exciting application scenarios after the launch of the virtual machine."
+        },
+         {
+            "type":"",
+            "text":"With that, the keynote sharing section of the FVM Shanghai Meetup came to an end, and the discussions about the prospects of FVM applications gradually moved from the backstage to the forefront."
+        },
+         {
+            "type":"",
+            "text":"Tim from the Force Community moderated the panel discussion, and Longfei, Timo, and two additional guest presenters, Mike Li and Laura, joined in a dialogue to examine the varied application scenarios of FVM. Mike and Laura are both key players in the Filecoin ecosystem and have long been involved in their respective Filecoin subfields."
+        },
+         {
+            "type":"Image",
+            "text":"9_text06.jpg"
+        },
+         {
+            "type":"",
+            "text":"Mike Li works for Venus and was an early builder of FVM, according to Protocol Labs. Laura is the co-founder of FileDrive Labs, an established real data storage team in the ecosystem. Since 2019, the team has been undertaking technological research based on peer-to-peer storage protocols, with the goal of developing distributed storage applications as well as delivering decentralized storage solutions and data migration services."
+        },
+         {
+            "type":"",
+            "text":"In the continuous 40-minute panel, the guests focused on the core topic of FVM. The launch of FVM will unprecedentedly unleash the development potential of Filecoin and stimulate the enthusiasm of participants. At the same time, the emergence of new types of applications and tools will not only attract native digital residents and developers but also optimize the user experience of its underlying storage functions and improve Filecoin’s market adoption rate."
+        },
+         {
+            "type":"",
+            "text":"The networking session after the panel brought the event to a climax, and probably no words could fully describe its atmosphere."
+        },
+         {
+            "type":"Image",
+            "text":"9_text07.jpg"
+        },
+         {
+            "type":"Image",
+            "text":"9_text08.jpg"
+        },
+
+          {
+            "type":"Image",
+            "text":"9_text09.jpg"
+        },
+          {
+            "type":"",
+            "text":"As you walk into the bookstore, you are greeted with a variety of styles and clothing, synthesizing into an open, inclusive, and trustworthy Web3 community."
+        },
+          {
+            "type":"",
+            "text":"With the deep ocean of knowledge and boundless possibilities, the Web3 industry truly represents an endless learning course. The room was abuzz with voices, and the festive atmosphere seemed to permeate every corner."
+        },
+          {
+            "type":"",
+            "text":"Handshakes, the exchanging of business cards, and taking photos with phones were common sights. But the lively event was not limited to the physical space. Just as you are reading the words I have written, on social media, we can still communicate and share freely on this vast network we call the internet."
+        },
+          {
+            "type":"",
+            "text":"Of course, there is nothing like being there in person to catch a glimpse of the crypto future. However, what is more important than regaining courage and confidence is the infinite potential that humans demonstrate in exploring and innovating."
+        },
+          {
+            "type":"",
+            "text":"Finally, we would like to express our gratitude to the Filecoin Foundation and the Orbit Community for their unwavering support, and we wish FVM a successful launch on March 14th."
+        },
+         {
+            "type":"",
+            "text":"Thank you for this magnificent encounter in Shanghai, we hope to see you all at the coming events."
+        },
+          {
+            "type":"",
+            "bloder":"true",
+            "text":"Learn more about Force Community"
+        }
+    ]
+}
